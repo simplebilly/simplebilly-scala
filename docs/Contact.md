@@ -1,0 +1,93 @@
+
+
+# Contact
+
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**accountHolder** | **String** |  |  [optional]
+**acquisitionCost** | **String** |  |  [optional]
+**addressSupplement** | **String** |  |  [optional]
+**attention** | **String** |  |  [optional]
+**bankName** | **String** |  |  [optional]
+**bic** | **String** |  |  [optional]
+**buyerReference** | **String** |  |  [optional]
+**category** | **String** |  |  [optional]
+**certificateAuthority** | **String** |  |  [optional]
+**certificateNumber** | **String** |  |  [optional]
+**certificateParagraph** | **String** |  |  [optional]
+**certificateValidUntil** | **String** |  |  [optional]
+**city** | **String** |  |  [optional]
+**companyName** | **String** |  |  [optional]
+**contactId** | **String** |  | 
+**contactPersons** | **AnyType** |  | 
+**contactType** | **String** |  | 
+**country** | **String** |  |  [optional]
+**createdAt** | **String** |  |  [readonly]
+**creditLimit** | **String** |  |  [optional]
+**creditorAccountSkr03** | **String** |  |  [optional]
+**creditorAccountSkr04** | **String** |  |  [optional]
+**currency** | **String** |  |  [optional]
+**customerNumber** | **String** |  |  [optional]
+**debitorAccountSkr03** | **String** |  |  [optional]
+**debitorAccountSkr04** | **String** |  |  [optional]
+**defaultDebitorNumber** | **String** |  |  [optional]
+**deliveryBlock** | **Boolean** |  |  [optional]
+**department** | **String** |  |  [optional]
+**discountDays** | **Int** |  |  [optional]
+**discountPercentage** | **String** |  |  [optional]
+**donationReceiptEligible** | **Boolean** |  |  [optional]
+**email** | **String** |  |  [optional]
+**externalId** | **String** |  |  [optional]
+**fax** | **String** |  |  [optional]
+**iban** | **String** |  |  [optional]
+**industry** | **String** |  |  [optional]
+**isActive** | **Boolean** |  |  [optional]
+**isMember** | **Boolean** |  |  [optional]
+**isNonprofit** | **Boolean** |  |  [optional]
+**lastContactDate** | **String** |  |  [optional]
+**lastPurchaseDate** | **String** |  |  [optional]
+**leitwegId** | **String** |  |  [optional]
+**lifetimeValue** | **String** |  |  [optional]
+**mandateDate** | **String** |  |  [optional]
+**mandateReference** | **String** |  |  [optional]
+**marketingConsent** | **Boolean** |  |  [optional]
+**marketingConsentAt** | **String** |  |  [optional]
+**marketingConsentSource** | **String** |  |  [optional]
+**mobile** | **String** |  |  [optional]
+**name** | **String** |  | 
+**nextContactDate** | **String** |  |  [optional]
+**notes** | **String** |  |  [optional]
+**openingBalance** | **String** |  |  [optional]
+**openingBalanceDate** | **String** |  |  [optional]
+**orderReference** | **String** |  |  [optional]
+**paymentBlock** | **Boolean** |  |  [optional]
+**paymentGracePeriodDays** | **Int** |  |  [optional]
+**paymentMethods** | **Seq&lt;String&gt;** |  |  [optional]
+**paymentTerms** | **String** |  |  [optional]
+**phone** | **String** |  |  [optional]
+**rating** | **Int** |  |  [optional]
+**salesRepresentative** | **String** |  |  [optional]
+**socialMedia** | **AnyType** |  | 
+**source** | **String** |  |  [optional]
+**state** | **String** |  |  [optional]
+**street** | **String** |  |  [optional]
+**streetNumber** | **String** |  |  [optional]
+**supplierNumber** | **String** |  |  [optional]
+**tags** | **Seq&lt;String&gt;** |  |  [optional]
+**taxCountry** | **String** |  |  [optional]
+**taxNumber** | **String** |  |  [optional]
+**taxOffice** | **String** |  |  [optional]
+**totalInvoices** | **Int** |  |  [optional]
+**totalRevenue** | **String** |  |  [optional]
+**updatedAt** | **String** |  |  [optional] [readonly]
+**vatId** | **String** |  |  [optional]
+**vatIdValidated** | **Boolean** |  |  [optional]
+**vatIdValidationDate** | **String** |  |  [optional]
+**website** | **String** |  |  [optional]
+**zip** | **String** |  |  [optional]
+
+
+

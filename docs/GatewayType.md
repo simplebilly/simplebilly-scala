@@ -1,0 +1,9 @@
+
+
+# GatewayType
+
+## Enum
+
+
+
+

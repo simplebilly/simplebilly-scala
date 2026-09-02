@@ -1,0 +1,9 @@
+
+
+# SupplierInvoiceStatus
+
+## Enum
+
+
+
+

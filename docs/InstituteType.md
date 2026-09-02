@@ -1,0 +1,9 @@
+
+
+# InstituteType
+
+## Enum
+
+
+
+

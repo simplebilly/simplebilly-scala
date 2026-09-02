@@ -1,0 +1,9 @@
+
+
+# MovementType
+
+## Enum
+
+
+
+

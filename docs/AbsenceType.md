@@ -1,0 +1,9 @@
+
+
+# AbsenceType
+
+## Enum
+
+
+
+

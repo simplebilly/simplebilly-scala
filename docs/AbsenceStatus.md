@@ -1,0 +1,9 @@
+
+
+# AbsenceStatus
+
+## Enum
+
+
+
+

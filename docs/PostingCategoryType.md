@@ -1,0 +1,9 @@
+
+
+# PostingCategoryType
+
+## Enum
+
+
+
+

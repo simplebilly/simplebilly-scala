@@ -1,0 +1,9 @@
+
+
+# JobPostingStatus
+
+## Enum
+
+
+
+

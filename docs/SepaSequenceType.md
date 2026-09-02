@@ -1,0 +1,9 @@
+
+
+# SepaSequenceType
+
+## Enum
+
+
+
+

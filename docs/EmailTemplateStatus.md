@@ -1,0 +1,9 @@
+
+
+# EmailTemplateStatus
+
+## Enum
+
+
+
+

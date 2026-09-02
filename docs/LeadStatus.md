@@ -1,0 +1,9 @@
+
+
+# LeadStatus
+
+## Enum
+
+
+
+
